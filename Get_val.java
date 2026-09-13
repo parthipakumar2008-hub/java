@@ -18,6 +18,8 @@ public class Get_val {
         c=a+b;
 
         System.out.println("TOTAL"+c);
+        
+        gv.close();
     }
 }
 
