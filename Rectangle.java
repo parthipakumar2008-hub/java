@@ -16,5 +16,7 @@ public class Rectangle{
 
         area=width*length;
         System.out.println("AREA :"+area);
+
+        cr.close();
     }
 }
