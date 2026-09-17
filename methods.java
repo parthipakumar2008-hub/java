@@ -25,8 +25,8 @@ public class methods {
         methods ms= new methods(); //Object Create
 
         ms.add(); // Function Call
-        ms.sub(20,5);
-        ms.String("parthipa","kumar");
+        ms.sub(5,6);
+        ms.String("parthi","kumar");
 
         int d=ms.return_type(45,6); // Return Function Call
         System.out.println("THE RETURN TYPE :"+d);
