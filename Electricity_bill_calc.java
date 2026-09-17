@@ -22,3 +22,4 @@ public class Electricity_bill_calc {
         sc.close();
     }
 }
+
